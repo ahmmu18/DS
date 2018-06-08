@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-loader-dots </title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5.83333333,40.8333333 C2.61167229,40.8333333 0,38.221661 0,35 C0,31.778339 2.61167229,29.1666667 5.83333333,29.1666667 C9.05499437,29.1666667 11.6666667,31.778339 11.6666667,35 C11.6666667,38.221661 9.05499437,40.8333333 5.83333333,40.8333333 Z M35,40.8333333 C31.778339,40.8333333 29.1666667,38.221661 29.1666667,35 C29.1666667,31.778339 31.778339,29.1666667 35,29.1666667 C38.221661,29.1666667 40.8333333,31.778339 40.8333333,35 C40.8333333,38.221661 38.221661,40.8333333 35,40.8333333 Z M64.1666667,40.8333333 C60.9450056,40.8333333 58.3333333,38.221661 58.3333333,35 C58.3333333,31.778339 60.9450056,29.1666667 64.1666667,29.1666667 C67.3883277,29.1666667 70,31.778339 70,35 C70,38.221661 67.3883277,40.8333333 64.1666667,40.8333333 Z" id="path-1"></path>
+    </defs>
+    <g id="ic-loader-dots-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/loaders/ic_loader_dot" transform="translate(5.000000, 5.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="-g-ic_loader_dot" fill="#858585" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <g id="pandora/$color-interaction-secondary" mask="url(#mask-2)" fill="#D70F64" fill-rule="evenodd">
+                <rect id="bg" x="0" y="0" width="70" height="70"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

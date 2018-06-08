@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-hamburger-menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13.3333333,23.3333333 L66.6666667,23.3333333 L66.6666667,26.6666667 L13.3333333,26.6666667 L13.3333333,23.3333333 Z M13.3333333,40 L66.6666667,40 L66.6666667,43.3333333 L13.3333333,43.3333333 L13.3333333,40 Z M13.3333333,56.6666667 L66.6666667,56.6666667 L66.6666667,60 L13.3333333,60 L13.3333333,56.6666667 Z" id="path-1"></path>
+    </defs>
+    <g id="ic-hamburger-menu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="ic_hamburger_menu" fill="#D70F64" xlink:href="#path-1"></use>
+    </g>
+</svg>

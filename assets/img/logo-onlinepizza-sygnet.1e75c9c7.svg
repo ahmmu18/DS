@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>logo-onlinepizza-sygnet</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M45.7279966,38.0995339 C37.0910697,46.734537 23.0391062,46.734537 14.4021793,38.0995339 C5.76525236,29.4645307 5.76525236,15.4088633 14.4021793,6.77386019 L8.7949597,1.16666635 C-2.93196724,12.8954236 -2.93196724,31.9760863 8.79684385,43.7048436 C20.5237708,55.4317167 39.604521,55.4317167 51.3333321,43.7048436 L45.7279966,38.0995339 Z" id="path-1"></path>
+        <path d="M0,0 L0,30 L30,30 C30,13.4322244 16.5696375,0 0,0" id="path-3"></path>
+    </defs>
+    <g id="logo-onlinepizza-sygnet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logos/onlinepizza/logo-onlinepizza-sygnet" transform="translate(10.000000, 10.000000)">
+            <g id="-g-">
+                <g id="circle" transform="translate(0.000000, 7.500000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#858585" opacity="0" xlink:href="#path-1"></use>
+                    <g id="onlinepizza/$color-brand-primary" mask="url(#mask-2)" fill="#FF3633">
+                        <g transform="translate(0.000000, -7.500000)" id="bg">
+                            <rect x="0" y="0" width="60" height="60"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="triangle" transform="translate(30.000000, 0.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Combined-Shape" fill="#858585" opacity="0" xlink:href="#path-3"></use>
+                    <g id="onlinepizza/$color-brand-secondary" mask="url(#mask-4)" fill="#272CC0">
+                        <g transform="translate(-30.000000, 0.000000)" id="bg">
+                            <rect x="0" y="0" width="60" height="60"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

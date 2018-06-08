@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-add</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M40,57.3333333 C49.5729357,57.3333333 57.3333333,49.5729357 57.3333333,40 C57.3333333,30.4270643 49.5729357,22.6666667 40,22.6666667 C30.4270643,22.6666667 22.6666667,30.4270643 22.6666667,40 C22.6666667,49.5729357 30.4270643,57.3333333 40,57.3333333 Z M38.6666667,38.6666667 L30.6666667,38.6666667 L30.6666667,41.3333333 L38.6666667,41.3333333 L38.6666667,49.3333333 L41.3333333,49.3333333 L41.3333333,41.3333333 L49.3333333,41.3333333 L49.3333333,38.6666667 L41.3333333,38.6666667 L41.3333333,30.6666667 L38.6666667,30.6666667 L38.6666667,38.6666667 Z M40,60 C28.954305,60 20,51.045695 20,40 C20,28.954305 28.954305,20 40,20 C51.045695,20 60,28.954305 60,40 C60,51.045695 51.045695,60 40,60 Z" id="path-1"></path>
+    </defs>
+    <g id="ic-add" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="-g-" fill="#D70F64" fill-rule="nonzero" xlink:href="#path-1"></use>
+    </g>
+</svg>

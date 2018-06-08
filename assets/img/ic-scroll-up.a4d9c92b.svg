@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-scroll-up</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M22.30512,43.3333333 L20,40.8855108 L40,23.3333333 L60,40.8855108 L57.69488,43.3333333 L40,27.8041496 L22.30512,43.3333333 Z M22.30512,60 L20,57.5521775 L40,40 L60,57.5521775 L57.69488,60 L40,44.4708163 L22.30512,60 Z" id="path-1"></path>
+    </defs>
+    <g id="ic-scroll-up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/arrows/ic-scroll-up">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="ic-scroll-up" fill="#858585" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="grayscale/$color-white" mask="url(#mask-2)" fill="#FFFFFF" fill-rule="evenodd">
+                <rect id="bg" x="0" y="0" width="80" height="80"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

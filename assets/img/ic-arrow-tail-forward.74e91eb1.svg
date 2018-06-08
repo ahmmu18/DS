@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-arrow-tail-forward</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M67.2864376,41.6666667 L6.66666667,41.6666667 L6.66666667,38.3333333 L67.2864376,38.3333333 L46.6666667,15.6538006 L49.0885412,13.3333333 L73.3333333,40 L49.0885412,66.6666667 L46.6666667,64.3461994 L67.2864376,41.6666667 Z" id="path-1"></path>
+    </defs>
+    <g id="ic-arrow-tail-forward" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/arrows/ic-arrow-tail-forward">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="ic-arrow-tail-forward" fill="#858585" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="pandora/$color-interaction-secondary" mask="url(#mask-2)" fill="#D70F64" fill-rule="evenodd">
+                <rect id="bg" x="0" y="0" width="80" height="80"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

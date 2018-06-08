@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>app-icon-onlinepizza</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M46.4683309,46.3746601 C40.1705717,52.6710166 29.9243483,52.6710166 23.626589,46.3746601 C17.3288298,40.0783036 17.3288298,29.8293795 23.626589,23.5330231 L19.5379914,19.4444442 C10.9871072,27.9966631 10.9871072,41.9096462 19.5393653,50.4618651 C28.0902495,59.0127101 42.0032965,59.0127101 50.5555546,50.4618651 L46.4683309,46.3746601 Z" id="path-1"></path>
+    </defs>
+    <g id="app-icon-onlinepizza" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="app_icon/app_icon_onlinepizza" transform="translate(5.000000, 5.000000)">
+            <rect id="bg" fill="#FF3633" x="0" y="0" width="70" height="70"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <path d="M35,13.125 L35,35 L56.875,35 C56.875,22.9193303 47.0820274,13.125 35,13.125" id="Combined-Shape" fill="#272CC0"></path>
+        </g>
+    </g>
+</svg>

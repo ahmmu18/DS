@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-cart</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="4.5" cy="4.5" r="4.5"></circle>
+        <path d="M24.0625,10.9375 L24.0625,7.65582889 C24.0625,5.84425205 25.5281176,4.375 27.3383789,4.375 L42.6616211,4.375 C44.4736883,4.375 45.9375,5.83816659 45.9375,7.65582889 L45.9375,10.9375 L52.5,10.9375 L52.5,52.5 L17.5,52.5 L17.5,10.9375 L24.0625,10.9375 Z M28.4375,10.9375 L41.5625,10.9375 L41.5625,9.84332889 C41.5625,9.2340054 41.0782812,8.75 40.4741211,8.75 L29.5258789,8.75 C28.924955,8.75 28.4375,9.23866377 28.4375,9.84332889 L28.4375,10.9375 Z M24.0625,15.3125 L21.875,15.3125 L21.875,35 L48.125,35 L48.125,15.3125 L45.9375,15.3125 L45.9375,17.5 L41.5625,17.5 L41.5625,15.3125 L28.4375,15.3125 L28.4375,17.5 L24.0625,17.5 L24.0625,15.3125 Z M21.875,39.375 L21.875,48.125 L48.125,48.125 L48.125,39.375 L21.875,39.375 Z" id="path-3"></path>
+    </defs>
+    <g id="ic-cart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/tracking/ic_cart" transform="translate(5.000000, 5.000000)">
+            <g id="icons/progress_and_pointers/ic_dot" transform="translate(30.625000, 61.250000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="ic_dot" fill="#858585" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <g id="grayscale/$color-neutral-primary" mask="url(#mask-2)" fill="#333333" fill-rule="evenodd">
+                    <rect id="bg" x="0" y="0" width="9" height="9"></rect>
+                </g>
+            </g>
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <use id="ic_cart_empty" fill="#858585" fill-rule="evenodd" xlink:href="#path-3"></use>
+            <g id="pandora/$color-interaction-secondary" mask="url(#mask-4)" fill="#D70F64" fill-rule="evenodd">
+                <rect id="bg" x="0" y="0" width="70" height="70"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

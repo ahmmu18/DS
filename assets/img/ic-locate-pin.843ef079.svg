@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-locate-pin</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.6666667,34.3955772 C6.4539593,33.7222773 0,26.8851295 0,18.55 C0,9.76867248 7.163444,2.65 16,2.65 C24.836556,2.65 32,9.76867248 32,18.55 C32,26.8851295 25.5460407,33.7222773 17.3333333,34.3955772 L17.3333333,49.025 L14.6666667,49.025 L14.6666667,34.3955772 Z" id="path-1"></path>
+        <filter x="-40.6%" y="-23.7%" width="181.2%" height="156.1%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="ic-locate-pin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/location/ic-location-pin" transform="translate(24.000000, 14.000000)">
+            <ellipse id="-g-ic_shadow" fill-opacity="0.16" fill="#000000" fill-rule="evenodd" cx="16" cy="49.025" rx="10.6666667" ry="3.975"></ellipse>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="ic_map_locator_pin">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                <use fill="#858585" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="pandora/$color-brand-primary" mask="url(#mask-2)" fill="#D70F64" fill-rule="evenodd">
+                <rect id="bg" x="0" y="0" width="32" height="53"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

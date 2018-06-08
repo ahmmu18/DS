@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-checkbox-empty</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.5,7.5 L7.5,52.5 L52.5,52.5 L52.5,7.5 L7.5,7.5 Z M5,5 L55,5 L55,55 L5,55 L5,5 Z" id="path-1"></path>
+    </defs>
+    <g id="ic-checkbox-empty" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/selectors/ic-checkbox-empty" transform="translate(10.000000, 10.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="ic-checkbox-empty" fill="#858585" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="grayscale/$color-neutral-border" mask="url(#mask-2)" fill="#DCDCDC" fill-rule="evenodd">
+                <rect id="bg" x="0" y="0" width="60" height="60"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

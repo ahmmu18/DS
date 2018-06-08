@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-history</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M38.3333333,63.3333333 C50.2995029,63.3333333 60,53.6328362 60,41.6666667 C60,29.7004971 50.2995029,20 38.3333333,20 C26.3671638,20 16.6666667,29.7004971 16.6666667,41.6666667 C16.6666667,53.6328362 26.3671638,63.3333333 38.3333333,63.3333333 Z M40,43.3333333 L40,30 L36.6666667,30 L36.6666667,43.3333333 L36.6666667,46.6666667 L50,46.6666667 L50,43.3333333 L40,43.3333333 Z M38.3333333,66.6666667 C24.5262146,66.6666667 13.3333333,55.4737854 13.3333333,41.6666667 C13.3333333,27.8595479 24.5262146,16.6666667 38.3333333,16.6666667 C52.1404521,16.6666667 63.3333333,27.8595479 63.3333333,41.6666667 C63.3333333,55.4737854 52.1404521,66.6666667 38.3333333,66.6666667 Z" id="path-1"></path>
+    </defs>
+    <g id="ic-history" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/location/ic-history">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="ic-history" fill="#858585" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="pandora/$color-interaction-secondary" mask="url(#mask-2)" fill="#D70F64" fill-rule="evenodd">
+                <rect id="bg" x="0" y="0" width="80" height="80"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

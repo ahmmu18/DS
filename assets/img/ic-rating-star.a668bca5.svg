@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-rating-star</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="40 53.7365856 27.6393202 60 30 46.7338754 20 37.3387537 33.8196601 35.4032522 40 23.3333333 46.1803399 35.4032522 60 37.3387537 50 46.7338754 52.3606798 60"></polygon>
+    </defs>
+    <g id="ic-rating-star" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/ratings/ic_rating_star">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="ic_rating_star" fill="#858585" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <g id="pandora/$color-ratings" mask="url(#mask-2)" fill="#276FBF" fill-rule="evenodd">
+                <rect id="bg" x="0" y="0" width="80" height="80"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

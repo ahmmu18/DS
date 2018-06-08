@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-cart-filled</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10.3333333,10.3333333 L10.3333333,5.33269164 C10.3333333,2.57219361 12.5666554,0.333333333 15.3251488,0.333333333 L38.6748512,0.333333333 C41.4360964,0.333333333 43.6666667,2.56292052 43.6666667,5.33269164 L43.6666667,10.3333333 L53.6666667,10.3333333 L53.6666667,73.6666667 L0.333333333,73.6666667 L0.333333333,10.3333333 L10.3333333,10.3333333 Z M13.6666667,10.3333333 L40.3333333,10.3333333 L40.3333333,5.33269164 C40.3333333,4.4041987 39.5954761,3.66666667 38.6748512,3.66666667 L15.3251488,3.66666667 C14.4094552,3.66666667 13.6666667,4.41129717 13.6666667,5.33269164 L13.6666667,10.3333333 Z M10.3333333,13.6666667 L3.66666667,13.6666667 L3.66666667,53.6666667 L50.3333333,53.6666667 L50.3333333,13.6666667 L43.6666667,13.6666667 L43.6666667,20.3333333 C43.1692053,20.3333333 42.6136497,20.3333333 42,20.3333333 C41.3863503,20.3333333 40.8307947,20.3333333 40.3333333,20.3333333 L40.3333333,13.6666667 L13.6666667,13.6666667 L13.6666667,20.3333333 L10.3333333,20.3333333 L10.3333333,13.6666667 Z" id="path-1"></path>
+    </defs>
+    <g id="ic-cart-filled" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/general/ic_cart_filled" transform="translate(13.000000, 3.000000)">
+            <text id="QTY-WHITE" font-family="SFUIDisplay-Medium, SF UI Display" font-size="9" font-weight="400" line-spacing="12" fill="#FFFFFF">
+                <tspan x="24.9455566" y="40">1</tspan>
+            </text>
+            <polygon id="QTY-COLOR" fill="#D70F64" points="27.1391602 47 27.1391602 29.1142578 27.065918 29.1142578 21.543457 33.0400391 21.543457 29.8173828 27.1098633 25.8623047 30.347168 25.8623047 30.347168 47"></polygon>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="ic_cart_filled" fill="#D70F64" xlink:href="#path-1"></use>
+            <g id="pandora/$color-interaction-secondary" mask="url(#mask-2)">
+                <g transform="translate(-13.000000, -3.000000)"></g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-info-blue</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M40,60 C28.954305,60 20,51.045695 20,40 C20,28.954305 28.954305,20 40,20 C51.045695,20 60,28.954305 60,40 C60,51.045695 51.045695,60 40,60 Z M40,56.6666667 C49.2047458,56.6666667 56.6666667,49.2047458 56.6666667,40 C56.6666667,30.7952542 49.2047458,23.3333333 40,23.3333333 C30.7952542,23.3333333 23.3333333,30.7952542 23.3333333,40 C23.3333333,49.2047458 30.7952542,56.6666667 40,56.6666667 Z M38.0000003,50 L38.0000003,36.6666667 L42.0000005,36.6666667 L42.0000005,50 L38.0000003,50 Z M40.1128906,34.4205729 C38.7955704,34.4205729 37.796224,33.4635417 37.796224,32.2102865 C37.796224,30.9570312 38.7955704,30 40.1128906,30 C41.4302108,30 42.4295572,30.9570312 42.4295572,32.2102865 C42.4295572,33.4635417 41.4302108,34.4205729 40.1128906,34.4205729 Z" id="path-1"></path>
+    </defs>
+    <g id="ic-info-blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/general/ic-info">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="i" fill="#276FBF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <g id="pandora/$color-brand-secondary" mask="url(#mask-2)" fill="#276FBF" fill-rule="evenodd">
+                <rect id="bg" x="0" y="0" width="80" height="80"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

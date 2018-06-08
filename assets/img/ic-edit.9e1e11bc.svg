@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-edit</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M48.5660562,10.5319465 L43.4662497,5.4321399 L45.3473258,3.54784819 L45.3505414,3.54784819 L50.4503479,8.64765476 L48.5660562,10.5319465 Z M14.1375386,44.9604641 L9.03773206,39.8606575 L41.1928806,7.70550891 L46.2926872,12.8053155 L14.1375386,44.9604641 Z M6.76436305,42.1340265 L11.8641696,47.2338331 L4.75145075,49.2467454 L6.76436305,42.1340265 Z M52.7237169,6.37428575 L47.6239104,1.27447919 C46.996885,0.64745379 46.1737132,0.332333333 45.3505414,0.332333333 C44.5273696,0.332333333 43.7041978,0.64745379 43.0771724,1.27447919 L38.9195116,5.4321399 L6.76436305,37.5872885 L3.54884819,40.8028034 L0.333333333,53.6648628 L13.1953928,50.4493479 L16.4109076,47.2338331 L48.5660562,15.0786845 L52.7237169,10.9210238 C53.9809832,9.66375745 53.9809832,7.63155206 52.7237169,6.37428575 Z" id="path-1"></path>
+    </defs>
+    <g id="ic-edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/general/ic_edit" transform="translate(13.000000, 13.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="ic_edit" fill="#D70F64" xlink:href="#path-1"></use>
+            <g id="pandora/$color-interaction-secondary" mask="url(#mask-2)">
+                <g transform="translate(-13.000000, -13.000000)"></g>
+            </g>
+        </g>
+    </g>
+</svg>

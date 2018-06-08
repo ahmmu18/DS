@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-cuisine-asian </title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ic-cuisine-asian-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/cuisines/ic_cuisines_asian">
+            <g id="-g-ic_cuisines_asian">
+                <rect id="bg" fill="#D70F64" x="0" y="0" width="80" height="80" rx="13"></rect>
+                <polygon id="Stroke-1" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="27.3333333 34.0366667 52.6666667 34.0366667 48.6666667 55.334 31.3333333 55.334"></polygon>
+                <path d="M27.4230667,34.2418667 C27.4230667,34.2418667 31.2177333,45.5992 39.6230667,45.5992 C48.0284,45.5992 52.4884,34.4072 52.4884,34.4072" id="Stroke-3" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M31.3333333,55.3333333 L34.6933333,44.1666667" id="Stroke-5" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M48.6461333,55.1885333 L45.1461333,43.8725333" id="Stroke-7" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polyline id="Stroke-9" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="43.0833333 24.6666667 43.4993333 34.036 45.9166667 34.036 47.2246667 24.6666667"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

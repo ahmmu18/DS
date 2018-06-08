@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-radio-empty</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M30,52.5 C42.4264069,52.5 52.5,42.4264069 52.5,30 C52.5,17.5735931 42.4264069,7.5 30,7.5 C17.5735931,7.5 7.5,17.5735931 7.5,30 C7.5,42.4264069 17.5735931,52.5 30,52.5 Z M30,55 C16.1928813,55 5,43.8071187 5,30 C5,16.1928813 16.1928813,5 30,5 C43.8071187,5 55,16.1928813 55,30 C55,43.8071187 43.8071187,55 30,55 Z" id="path-1"></path>
+    </defs>
+    <g id="ic-radio-empty" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/selectors/ic-radio-empty" transform="translate(10.000000, 10.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="ic-radio-empty" fill="#858585" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="grayscale/$color-neutral-border" mask="url(#mask-2)" fill="#DCDCDC" fill-rule="evenodd">
+                <rect id="bg" x="0" y="0" width="60" height="60"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-checkbox-filled</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5,5 L55,5 L55,55 L5,55 L5,5 Z M38.166301,22.5 L27.3798792,34.0703076 L21.580287,29.266325 L19.9901955,31.1964008 L27.6001948,37.5 L39.9901955,24.2095761 L38.166301,22.5 Z" id="path-1"></path>
+    </defs>
+    <g id="ic-checkbox-filled" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/selectors/ic-checkbox-filled" transform="translate(10.000000, 10.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="ic_checkbox_filled" fill="#858585" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <g id="pandora/$color-interaction-secondary" mask="url(#mask-2)" fill="#D70F64" fill-rule="evenodd">
+                <rect id="bg" x="0" y="0" width="60" height="60"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-plus-sm</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M38.1818182,38.1818182 L38.1818182,20 L41.8181818,20 L41.8181818,38.1818182 L60,38.1818182 L60,41.8181818 L41.8181818,41.8181818 L41.8181818,60 L38.1818182,60 L38.1818182,41.8181818 L20,41.8181818 L20,38.1818182 L38.1818182,38.1818182 Z" id="path-1"></path>
+    </defs>
+    <g id="ic-plus-sm" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="ic_plus_sm" fill="#D70F64" xlink:href="#path-1"></use>
+    </g>
+</svg>

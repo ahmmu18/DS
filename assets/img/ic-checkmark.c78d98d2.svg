@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-checkmark</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="45.4231076 15.625 47.5 17.1684863 26.7796066 41.875 12.5 29.777103 14.2701596 27.9256145 26.4517322 38.2460255"></polygon>
+    </defs>
+    <g id="ic-checkmark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/selectors/ic-checkmark" transform="translate(10.000000, 10.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="-g-" fill="#858585" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="pandora/$color-interaction-secondary" mask="url(#mask-2)" fill="#D70F64" fill-rule="evenodd">
+                <rect id="bg" x="0" y="0" width="60" height="60"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

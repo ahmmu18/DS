@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-orders</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20.4166667,5.83333333 L20.4166667,14.5833333 L11.6666667,14.5833333 L11.6666667,64.1666667 L49.5833333,64.1666667 L49.5833333,55.4166667 L58.3333333,55.4166667 L58.3333333,5.83333333 L20.4166667,5.83333333 Z M23.3333333,8.75 L55.4166667,8.75 L55.4166667,52.5 L49.581875,52.5 L49.581875,14.5833333 L23.3333333,14.5833333 L23.3333333,8.75 Z M14.581875,61.25 L46.6652083,61.25 L46.6652083,17.5 L14.5833333,17.5 L14.581875,61.25 Z" id="path-1"></path>
+    </defs>
+    <g id="ic-orders" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/side_nav/ic_orders" transform="translate(5.000000, 5.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="ic_side_nav_orders" fill="#858585" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <g id="pandora/$color-interaction-secondary" mask="url(#mask-2)" fill="#D70F64" fill-rule="evenodd">
+                <rect id="bg" x="0" y="0" width="70" height="70"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
